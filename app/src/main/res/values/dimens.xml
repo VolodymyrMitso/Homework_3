@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="activity_horizontal_margin">15dp</dimen>
+    <dimen name="activity_vertical_margin">15dp</dimen>
+
+    <dimen name="d_margin150">150dp</dimen>
+    <dimen name="d_margin90">90dp</dimen>
+    <dimen name="d_margin70">70dp</dimen>
+    <dimen name="d_margin50">50dp</dimen>
+    <dimen name="d_margin35">35dp</dimen>
+    <dimen name="d_margin25">25dp</dimen>
+    <dimen name="d_margin20">20dp</dimen>
+    <dimen name="d_margin10">10dp</dimen>
+</resources>

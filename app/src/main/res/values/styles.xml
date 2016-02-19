@@ -1,0 +1,29 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar"/>
+
+    <style name="textStyle" parent="screenStyle">
+        <item name="android:textColor">@color/c_normalTextColor</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="inputStyle">
+        <item name="android:layout_width">110dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:textColor">@color/c_normalTextColor</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <style name="buttonStyle" parent="inputStyle">
+        <item name="android:layout_width">90dp</item>
+        <item name="android:layout_height">70dp</item>
+    </style>
+
+    <style name="screenStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+</resources>

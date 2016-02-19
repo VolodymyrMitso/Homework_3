@@ -1,0 +1,9 @@
+<resources>
+    <string name="s_appName">Homework_3</string>
+    <string name="s_instruction">
+        Enter two integer numbers, one for each input field. Then press button with that sign, which action you want to execute.
+    </string>
+    <string name="s_plus">+</string>
+    <string name="s_minus">-</string>
+    <string name="s_warning">enter two integer numbers</string>
+</resources>
